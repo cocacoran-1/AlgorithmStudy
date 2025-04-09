@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXLuL5Mc+c4=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Algorithm01\\BubbleSelection.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm02\\Alogorithm02.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm02\\Alogorithm02.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm03\\Alogorithm03.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm03\\Alogorithm03.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

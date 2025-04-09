@@ -1,0 +1,15 @@
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\bin\Debug\net8.0\Merge.exe
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\bin\Debug\net8.0\Merge.deps.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\bin\Debug\net8.0\Merge.runtimeconfig.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\bin\Debug\net8.0\Merge.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\bin\Debug\net8.0\Merge.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.AssemblyInfoInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.AssemblyInfo.cs
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.csproj.CoreCompileInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.sourcelink.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\refint\Merge.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\Merge.genruntimeconfig.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Algorithm04\obj\Debug\net8.0\ref\Merge.dll

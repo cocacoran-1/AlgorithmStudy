@@ -1,0 +1,15 @@
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\bin\Debug\net8.0\Insertion.exe
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\bin\Debug\net8.0\Insertion.deps.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\bin\Debug\net8.0\Insertion.runtimeconfig.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\bin\Debug\net8.0\Insertion.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\bin\Debug\net8.0\Insertion.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.AssemblyInfoInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.AssemblyInfo.cs
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.csproj.CoreCompileInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.sourcelink.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\refint\Insertion.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\Insertion.genruntimeconfig.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Alogorithm02\obj\Debug\net8.0\ref\Insertion.dll
