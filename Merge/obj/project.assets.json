@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Algorithm04\\Merge.csproj",
+      "projectUniqueName": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Merge\\Merge.csproj",
       "projectName": "Merge",
-      "projectPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Algorithm04\\Merge.csproj",
+      "projectPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Merge\\Merge.csproj",
       "packagesPath": "C:\\Users\\kyung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Algorithm04\\obj\\",
+      "outputPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Merge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

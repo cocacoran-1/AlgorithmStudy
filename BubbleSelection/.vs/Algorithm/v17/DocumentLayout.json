@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\BubbleSelection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E18AC4D-0498-4719-A9C5-9B2730E067C2}|..\\Radix\\Radix.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\radix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF05314-D621-404D-90B9-BFD54BE4FFF8}|..\\Counting\\Counting.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\counting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C96098-0393-4A62-8AB2-E9449BEA1D6A}|BubbleSelection.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\bubbleselection\\bubbleselection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1C96098-0393-4A62-8AB2-E9449BEA1D6A}|BubbleSelection.csproj|solutionrelative:bubbleselection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93E1E04-6CB0-417F-B903-FC2E775B39CF}|..\\Heap\\Heap.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\heap\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88D5442-A099-4880-7694-DE01BC268519}|..\\Quick\\Quick.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\quick\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF4638-37D8-64FD-A1C8-A9975D67F869}|..\\Merge\\Merge.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\merge\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB589D9-12CD-0FBB-49DD-AC71AEFA4F4B}|..\\Insertion\\Insertion.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\insertion\\insertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C96098-0393-4A62-8AB2-E9449BEA1D6A}|BubbleSelection.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\bubbleselection\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C96098-0393-4A62-8AB2-E9449BEA1D6A}|BubbleSelection.csproj|solutionrelative:selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C96098-0393-4A62-8AB2-E9449BEA1D6A}|BubbleSelection.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\bubbleselection\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C96098-0393-4A62-8AB2-E9449BEA1D6A}|BubbleSelection.csproj|solutionrelative:bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93E1E04-6CB0-417F-B903-FC2E775B39CF}|..\\Heap\\Heap.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\heap\\heap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Radix\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Radix\\Program.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Radix\\Program.cs",
+              "RelativeToolTip": "..\\Radix\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:20:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Counting\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Counting\\Program.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Counting\\Program.cs",
+              "RelativeToolTip": "..\\Counting\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:09:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Merge.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Merge\\Merge.cs",
+              "RelativeDocumentMoniker": "..\\Merge\\Merge.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Merge\\Merge.cs",
+              "RelativeToolTip": "..\\Merge\\Merge.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:14:05.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Insertion.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Insertion\\Insertion.cs",
+              "RelativeDocumentMoniker": "..\\Insertion\\Insertion.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Insertion\\Insertion.cs",
+              "RelativeToolTip": "..\\Insertion\\Insertion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:14:06.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Selection.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\BubbleSelection\\Selection.cs",
+              "RelativeDocumentMoniker": "Selection.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\BubbleSelection\\Selection.cs",
+              "RelativeToolTip": "Selection.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:13:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bubble.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\BubbleSelection\\Bubble.cs",
+              "RelativeDocumentMoniker": "Bubble.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\BubbleSelection\\Bubble.cs",
+              "RelativeToolTip": "Bubble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:13:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Heap.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Heap\\Heap.cs",
+              "RelativeDocumentMoniker": "..\\Heap\\Heap.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Heap\\Heap.cs",
+              "RelativeToolTip": "..\\Heap\\Heap.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:13:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Heap",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Heap\\Heap.csproj",
+              "RelativeDocumentMoniker": "..\\Heap\\Heap.csproj",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Heap\\Heap.csproj",
+              "RelativeToolTip": "..\\Heap\\Heap.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T09:13:15.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quick.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Quick\\Quick.cs",
+              "RelativeDocumentMoniker": "..\\Quick\\Quick.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Quick\\Quick.cs",
+              "RelativeToolTip": "..\\Quick\\Quick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:11:37.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSelection",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\BubbleSelection\\BubbleSelection.csproj",
+              "RelativeDocumentMoniker": "BubbleSelection.csproj",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\BubbleSelection\\BubbleSelection.csproj",
+              "RelativeToolTip": "BubbleSelection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T09:08:54.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

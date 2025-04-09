@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Alogorithm02\Alogorithm02.csproj" />
-    <ProjectReference Include="..\Alogorithm03\Alogorithm03.csproj" />
+    <ProjectReference Include="..\Insertion\Insertion.csproj" />
   </ItemGroup>
 
 </Project>

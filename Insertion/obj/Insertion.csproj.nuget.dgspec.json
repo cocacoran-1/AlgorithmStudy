@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm02\\Insertion.csproj": {}
+    "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Insertion\\Insertion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm02\\Insertion.csproj": {
+    "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Insertion\\Insertion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm02\\Insertion.csproj",
+        "projectUniqueName": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Insertion\\Insertion.csproj",
         "projectName": "Insertion",
-        "projectPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm02\\Insertion.csproj",
+        "projectPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Insertion\\Insertion.csproj",
         "packagesPath": "C:\\Users\\kyung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Alogorithm02\\obj\\",
+        "outputPath": "C:\\Users\\kyung\\OneDrive\\바탕 화면\\C#\\Insertion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
