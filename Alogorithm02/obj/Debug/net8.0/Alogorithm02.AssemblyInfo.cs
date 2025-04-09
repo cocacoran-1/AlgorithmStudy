@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alogorithm02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa29f2b61335acc2f0c63a6257ef65b88d2b372e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alogorithm02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alogorithm02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
