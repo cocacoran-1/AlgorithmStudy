@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BubbleSelection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf95acf227a8ee8aaf3c84d3cc886da38777dc7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f63618ea53679cb6268057d913efd32fee6f04e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BubbleSelection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BubbleSelection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
