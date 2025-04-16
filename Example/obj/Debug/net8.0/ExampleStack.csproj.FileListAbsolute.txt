@@ -1,0 +1,15 @@
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\bin\Debug\net8.0\ExampleStack.exe
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\bin\Debug\net8.0\ExampleStack.deps.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\bin\Debug\net8.0\ExampleStack.runtimeconfig.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\bin\Debug\net8.0\ExampleStack.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\bin\Debug\net8.0\ExampleStack.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.AssemblyInfoInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.AssemblyInfo.cs
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.csproj.CoreCompileInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.sourcelink.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\refint\ExampleStack.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ExampleStack.genruntimeconfig.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\Example\obj\Debug\net8.0\ref\ExampleStack.dll

@@ -1,0 +1,15 @@
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\bin\Debug\net8.0\ExampleQueue.exe
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\bin\Debug\net8.0\ExampleQueue.deps.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\bin\Debug\net8.0\ExampleQueue.runtimeconfig.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\bin\Debug\net8.0\ExampleQueue.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\bin\Debug\net8.0\ExampleQueue.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.AssemblyInfoInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.AssemblyInfo.cs
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.csproj.CoreCompileInputs.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.sourcelink.json
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\refint\ExampleQueue.dll
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.pdb
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ExampleQueue.genruntimeconfig.cache
+C:\Users\kyung\OneDrive\바탕 화면\C#\ExampleQueue\obj\Debug\net8.0\ref\ExampleQueue.dll
