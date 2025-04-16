@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Data Structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB8CE3F4-72DB-423D-9C41-84CADD0F6A31}|..\\ExampleQueue\\ExampleQueue.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\examplequeue\\queueex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E67FDDC2-3111-4728-A3D4-462FFA4E9CFF}|..\\LinkedList\\LinkedList.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\linkedlist\\linkedlist01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2BA7F1C-6B32-42B2-A0F8-30714BD059C2}|..\\Example\\Example.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\example\\stackex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB8CE3F4-72DB-423D-9C41-84CADD0F6A31}|..\\ExampleQueue\\ExampleQueue.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\examplequeue\\queueex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6622347E-5596-4420-A1C2-FDDD23595A29}|Data Structures.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\data structures\\stack01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -14,6 +14,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF25EA15-B094-4963-8FB3-0973DD04A045}|..\\Queue\\Queue.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\queue\\queue01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BA7F1C-6B32-42B2-A0F8-30714BD059C2}|..\\Example\\ExampleStack.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\example\\stackex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LinkedList01.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\LinkedList\\LinkedList01.cs",
+              "RelativeDocumentMoniker": "..\\LinkedList\\LinkedList01.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\LinkedList\\LinkedList01.cs",
+              "RelativeToolTip": "..\\LinkedList\\LinkedList01.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:50:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "QueueEx.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\ExampleQueue\\QueueEx.cs",
               "RelativeDocumentMoniker": "..\\ExampleQueue\\QueueEx.cs",
@@ -40,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StackEx.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Example\\StackEx.cs",
               "RelativeDocumentMoniker": "..\\Example\\StackEx.cs",
@@ -48,8 +64,7 @@
               "RelativeToolTip": "..\\Example\\StackEx.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:15:19.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:15:19.859Z"
             },
             {
               "$type": "Document",
@@ -61,8 +76,7 @@
               "RelativeToolTip": "..\\Queue\\Queue01.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:10:44.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:10:44.481Z"
             },
             {
               "$type": "Document",
@@ -74,8 +88,7 @@
               "RelativeToolTip": "Stack01.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T10:48:18.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T10:48:18.417Z"
             }
           ]
         }
