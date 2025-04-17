@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Data Structures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C194467D-369C-4341-9DA4-33EBE61A516A}|..\\Binary Search Tree\\Binary Search Tree.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\binary search tree\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E67FDDC2-3111-4728-A3D4-462FFA4E9CFF}|..\\LinkedList\\LinkedList.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\linkedlist\\linkedlist01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,19 +34,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BST.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Binary Search Tree\\BST.cs",
+              "RelativeDocumentMoniker": "..\\Binary Search Tree\\BST.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Binary Search Tree\\BST.cs",
+              "RelativeToolTip": "..\\Binary Search Tree\\BST.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:30:34.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LinkedList01.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\LinkedList\\LinkedList01.cs",
               "RelativeDocumentMoniker": "..\\LinkedList\\LinkedList01.cs",
               "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\LinkedList\\LinkedList01.cs",
               "RelativeToolTip": "..\\LinkedList\\LinkedList01.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwDIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T11:50:57.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QueueEx.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\ExampleQueue\\QueueEx.cs",
               "RelativeDocumentMoniker": "..\\ExampleQueue\\QueueEx.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "..\\ExampleQueue\\QueueEx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T11:25:41.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T11:25:41.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StackEx.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Example\\StackEx.cs",
               "RelativeDocumentMoniker": "..\\Example\\StackEx.cs",
@@ -68,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Queue01.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Queue\\Queue01.cs",
               "RelativeDocumentMoniker": "..\\Queue\\Queue01.cs",
@@ -80,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Stack01.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\Data Structures\\Stack01.cs",
               "RelativeDocumentMoniker": "Stack01.cs",

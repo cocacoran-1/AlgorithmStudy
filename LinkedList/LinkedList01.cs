@@ -62,23 +62,63 @@
             current.Next = newNode; // 현재 노드의 Next를 새 노드로 설정
         }
 
-        public void Remove(int data)
+        public void Remove(int index)
         {
-            if (head == null) return;
-            if (head.Data == data)
+            if (head == null) return; // 빈 리스트 예외 처리
+
+            if (index == 0)
             {
-                head = head.Next;
-                return;
+                head = head.Next; // head를 다음 노드로 이동
             }
+
             Node current = head;
-            while (current.Next != null && current.Next.Data != data)
+            for (int i = 0; i < index - 1; i++)
             {
+                if (current == null || current.Next == null) return;
                 current = current.Next;
             }
-            if (current.Next != null)
+
+            if (current.Next == null) return; // 삭제할 노드가 없는 경우
+
+            current.Next = current.Next.Next; // 삭제 (가비지 컬렉터가 처리함)
+        }
+        public void RemoveByValue(int value)
+        {
+            if (head == null) return; // 빈 리스트 예외 처리
+
+            if(head.Data == value) // head가 삭제할 값인 경우
             {
-                current.Next = current.Next.Next;
+                head = head.Next; // head를 다음 노드로 이동
+                return;
             }
+
+            Node current = head;
+            while (current.Next != null && current.Next.Data != value)
+            {
+                current = current.Next; // 삭제할 값이 나올 때까지 이동
+            }
+
+            if (current.Next == null) return; // 삭제할 값이 없는 경우
+
+            current.Next = current.Next.Next; // 삭제 (가비지 컬렉터가 처리함)
+        }
+        public void Clear()
+        {
+            head = null; // 모든 노드를 삭제 (가비지 컬렉터가 처리함)
+        }
+        public void Reverse()
+        {
+            Node prev = null;
+            Node current = head;
+            Node next = null;
+            while (current != null)
+            {
+                next = current.Next; // 다음 노드 임시 저장
+                current.Next = prev; // 현재 노드의 방향 반전
+                prev = current; // 이전 노드 한 칸 앞으로
+                current = next; // 현재 노드 한 칸 앞으로
+            }
+            head = prev; // 새로운 head 설정
         }
     }
     internal class LinkedList01

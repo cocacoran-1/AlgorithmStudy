@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleQueue", "..\ExampleQ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "..\LinkedList\LinkedList.csproj", "{E67FDDC2-3111-4728-A3D4-462FFA4E9CFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search Tree", "..\Binary Search Tree\Binary Search Tree.csproj", "{C194467D-369C-4341-9DA4-33EBE61A516A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E67FDDC2-3111-4728-A3D4-462FFA4E9CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E67FDDC2-3111-4728-A3D4-462FFA4E9CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E67FDDC2-3111-4728-A3D4-462FFA4E9CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C194467D-369C-4341-9DA4-33EBE61A516A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C194467D-369C-4341-9DA4-33EBE61A516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C194467D-369C-4341-9DA4-33EBE61A516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C194467D-369C-4341-9DA4-33EBE61A516A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
